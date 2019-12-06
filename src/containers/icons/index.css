@@ -1,0 +1,20 @@
+.icons-section ul li svg {
+    width: 40px;
+    height: 40px;
+    fill: #5c7a99;
+}
+.icons-section ul li {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #fff;
+    display: flex;
+}
+.icons-display {
+    display: flex;
+    flex-flow: wrap;
+}
+.className {
+    display: flex;
+    cursor: pointer;
+    margin: 30px;
+}

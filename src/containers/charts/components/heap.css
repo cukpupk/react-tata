@@ -1,0 +1,7 @@
+.heatmap-section {
+    display: flex;
+    width: 1300px;
+    height: 40vh;
+    justify-content: center;
+    align-self: center;
+}

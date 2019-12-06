@@ -1,0 +1,7 @@
+.root {
+    height: 100%;
+    width: 100%;
+    max-width: 250px;
+    background: aquamarine;
+    margin-top: 10px;
+}
